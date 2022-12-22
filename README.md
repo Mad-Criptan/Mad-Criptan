@@ -15,6 +15,16 @@
 <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=Mad-Criptan&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>
+  Glad to see you there
+  <img src="https://media0.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=5e21488611cc0297ce3c41c23072bc95c5aec2d299557b56&rid=giphy.gif&ct=s" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/9eJW1WdoqeQ7f9d41C/giphy.gif?cid=5e214886j7i651a23653bpva1k38pemrnk8ywau8646mivrf&rid=giphy.gif&ct=g"300"/>
+</div>
+
+---
 
 
 <!--
