@@ -13,7 +13,7 @@
  </a>
 </div>
 <div id="badges">
-<img src="https://komarev.com/ghpvc/?Mad-Criptan=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Mad-Criptan&style=flat-square&color=blue" alt=""/>
 </div>
 
 
