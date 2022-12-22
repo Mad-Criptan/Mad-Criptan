@@ -21,11 +21,26 @@
 </h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/9eJW1WdoqeQ7f9d41C/giphy.gif?cid=5e214886j7i651a23653bpva1k38pemrnk8ywau8646mivrf&rid=giphy.gif&ct=g"300"/>
+  <img src="https://media3.giphy.com/media/9eJW1WdoqeQ7f9d41C/giphy.gif?cid=5e214886j7i651a23653bpva1k38pemrnk8ywau8646mivrf&rid=giphy.gif&ct=g"50"/>
 </div>
 
 ---
+ 
+I am an aspiring Ambassador.
 
+:technologist: What I can do for your project:
+
+:writing_hand: write articles about your benefits.
+
+:artist: make arts/videos/ infographics.
+
+:man_judge: moderate your community chat. 
+
+:mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Mad_Criptan-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Mad_Criptan)
+
+---
+
+### :card_file_box: Projects that  I have participated:
 
 <!--
 **Mad-Criptan/Mad-Criptan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
