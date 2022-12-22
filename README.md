@@ -12,8 +12,10 @@
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
  </a>
 </div>
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?Mad-Criptan=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
- Hi there 👋
 
 <!--
 **Mad-Criptan/Mad-Criptan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
