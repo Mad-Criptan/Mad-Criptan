@@ -46,14 +46,5 @@ I am an aspiring Ambassador.
   <img src="https://github.com/subspace/subspace-desktop/blob/main/subspace-logo.png?ysclid=lc1xeg00hi767328853" title="Java" alt="Java" width="40" height="40"/>&nbsp
 </div>
 
----
-
-### :writing_hand: Blog Posts :
-
-
-        
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
     
