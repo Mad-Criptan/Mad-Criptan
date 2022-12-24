@@ -38,7 +38,13 @@ I am an aspiring Ambassador.
 
 ---
 
-### :card_file_box: Projects that  I have participated:
+### :card_file_box: Projects that  I have been participating:
+
+<div>
+  <img src="https://github.com/Mad-Criptan/Mad-Criptan/blob/main/image4.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Mad-Criptan/Mad-Criptan/blob/main/icon-purple.png" title="Java" alt="Java" width="40" height="40"/>&nbsp
+  <img src="https://github.com/subspace/subspace-desktop/blob/main/subspace-logo.png?ysclid=lc1xeg00hi767328853" title="Java" alt="Java" width="40" height="40"/>&nbsp
+</div>
 
 <!--
 **Mad-Criptan/Mad-Criptan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
