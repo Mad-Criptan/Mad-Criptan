@@ -25,18 +25,16 @@
 </div>
 
 ---
- 
+<div align="left">
 I am an aspiring Ambassador.
-
-:technologist: What I can do for your project:
-
-:writing_hand: write articles about your benefits.
-
-:artist: make arts/videos/ infographics.
-
-:man_judge: moderate your community chat. 
-
-:mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Mad_Criptan-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Mad_Criptan)
+                 
+- :writing_hand: write articles.
+                 
+- :artist: make arts/videos/ infographics.
+                 
+- :man_judge: moderate community chat. 
+                 
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Mad_Criptan-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Mad_Criptan)
 
 ---
 
